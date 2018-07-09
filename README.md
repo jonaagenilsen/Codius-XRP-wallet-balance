@@ -22,7 +22,7 @@ This script will give you realtime balance-info on your wallet used for Codius. 
 
 **WALLET**: enter your wallet-address here
 
-**START_BALANCE**: enter your balance from your wallet after payment-channel(s) has been setup. https://bithomp.com/explorer/r3RWq6awu6mVA7jNm9XoYkgAXCSZ2Wg8uw is a nice resource
+**START_BALANCE**: enter your balance from your wallet after payment-channel(s) has been setup. https://bithomp.com/explorer/r3RWq6awu6mVA7jNm9XoYkgAXCSZ2Wg8uw is a nice resource for tracking payments & transactions.
 
 **SINCE**: you're preferred text for tracking the start of incoming XRP to your wallet running Codius
 
