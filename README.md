@@ -12,6 +12,9 @@ This script will give you realtime balance-info on your wallet used for Codius.
 
 5. Run/execute script: `sh /root/scripts/codius-XRP-wallet-balance.sh`
 
+### Screenshot
+![screen](https://github.com/jonaagenilsen/Codius-XRP-wallet-balance/blob/master/codius-XRP-wallet-balance.png)
+
 ### Donations
 Donations accepted (XRP) to `rN3HmkFCmZJUVPhSiugNGLL36eH9euRDHF`.
 
