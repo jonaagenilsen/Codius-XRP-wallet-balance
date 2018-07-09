@@ -6,7 +6,7 @@ This script will give you realtime balance-info on your wallet used for Codius. 
 
 ## Installation
 ### 1. Needed packages
-`yum install bc screen`
+`yum install bc screen nano`
 
 ### 2 Create dir to for script(s)
 `mkdir /root/scripts -p`
@@ -18,7 +18,13 @@ This script will give you realtime balance-info on your wallet used for Codius. 
 `chmod 700 /root/scripts/codius-XRP-wallet-balance.sh`
 
 ### 5. Edit script before running:
-`nano /root/scripts/codius-XRP-wallet-balance.sh` & edit variables.
+`nano /root/scripts/codius-XRP-wallet-balance.sh` & edit variables:
+**WALLET**: enter your wallet-address here
+**START_BALANCE**: enter your balance from your wallet after payment-channel(s) has been setup. https://bithomp.com/explorer/r3RWq6awu6mVA7jNm9XoYkgAXCSZ2Wg8uw is a nice resource
+**SINCE**: you're preferred text for tracking the start of incoming XRP to your wallet running Codius
+**DELAY_BEFORE_REFRESH**: can be set to (# of seconds) whatever you prefer. 1800 = every 30 mins
+
+Save script. You are ready.
 
 ### 6. Run/execute script:
 `sh /root/scripts/codius-XRP-wallet-balance.sh`
