@@ -9,16 +9,17 @@
 # Install needed packages: yum install bc screen
 # mkdir /root/scripts -p
 #
-# paste script in: /root/scrips/wallet_balance.sh
+# paste script in: /root/scrips/codius-XRP-wallet-balance.sh
 # change: WALLET / START_BALANCE & SINCE variables below
 #
-# chmod 700 /root/scripts/wallet_balance.sh
+# chmod 700 /root/scripts/codius-XRP-wallet-balance.sh
 #
-# screen -S d
-# (start script): sh /root/scripts/wallet_balance.sh
+# (setup screen): screen -S d
+# (start script): sh /root/scripts/codius-XRP-wallet-balance.sh
 # (detach screen): ctrl + 'a' then 'd'
 #
-# re-attach screen after login: screen -x. Please check documentation for using screen.
+# Logout & login & re-attach screen after login: screen -x. Script will be running as long as the host is up!
+# Please check documentation for using screen if this is unfamiliar to you.
 #
 
 WALLET=r3RWq6awu6mVA7jNm9XoYkgAXCSZ2Wg8uw
