@@ -16,6 +16,7 @@ This script will give you realtime balance-info on your wallet used for Codius.
 ![screen](https://github.com/jonaagenilsen/Codius-XRP-wallet-balance/blob/master/codius-XRP-wallet-balance.png)
 
 ### Donations
-Donations accepted (XRP) to `rN3HmkFCmZJUVPhSiugNGLL36eH9euRDHF`.
+Donations accepted (XRP) to `rN3HmkFCmZJUVPhSiugNGLL36eH9euRDHF` or <a amount="1" size="275" to="jonaagenilsen" network="twitter" href="https://www.xrptipbot.com" target="_blank"></a>
+<script async src="https://www.xrptipbot.com/static/donate/tipper.js" charset="utf-8"></script>
 
 
