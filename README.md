@@ -20,7 +20,8 @@ This script will give you realtime balance-info on your wallet used for Codius.
 ### 5. Run/execute script:
 `sh /root/scripts/codius-XRP-wallet-balance.sh`
 
-## Keep script running after logout
+
+## Keep script running after logout (optional)
 ### Install screen:
 `yum install screen`
 
@@ -31,7 +32,7 @@ This script will give you realtime balance-info on your wallet used for Codius.
 `sh /root/scripts/codius-XRP-wallet-balance.sh`
 
 ### Detach screen-session:
-Press *CTRL* + *a* then *d*
+Press **CTRL** + **a** then **d**
 
 Script will continue running. You can now logout & login again, then issue command: `screen -x` to resume your session.
 
