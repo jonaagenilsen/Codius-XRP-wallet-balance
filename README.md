@@ -5,19 +5,19 @@ This script will give you realtime balance-info on your wallet used for Codius.
 ![screen](https://github.com/jonaagenilsen/Codius-XRP-wallet-balance/blob/master/codius-XRP-wallet-balance.png)
 
 ### Installation
-#### Create dir to store script
+#### Create dir to for script(s)
 `mkdir /root/scripts -p`
 
 #### Fetch it:
 `wget https://raw.githubusercontent.com/jonaagenilsen/Codius-XRP-wallet-balance/master/codius-XRP-wallet-balance.sh -O /root/scripts/codius-XRP-wallet-balance.sh`
 
-3. Set proper rights:
+#### Set proper rights
 `chmod 700 /root/scripts/codius-XRP-wallet-balance.sh`
 
-4. Edit script before running:
+#### Edit script before running:
 `nano /root/scripts/codius-XRP-wallet-balance.sh` & edit variables.
 
-5. Run/execute script:
+#### Run/execute script:
 `sh /root/scripts/codius-XRP-wallet-balance.sh`
 
 ### Donations
