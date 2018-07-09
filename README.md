@@ -9,6 +9,7 @@ This script will give you realtime balance-info on your wallet used for Codius.
 `chmod 700 /root/scripts/codius-XRP-wallet-balance.sh`
 
 `nano /root/scripts/codius-XRP-wallet-balance.sh` & edit variables.
+
 Run it: `sh /root/scripts/codius-XRP-wallet-balance.sh`
 
 ### Donations
