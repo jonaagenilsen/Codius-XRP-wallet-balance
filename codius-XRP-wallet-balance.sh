@@ -5,7 +5,7 @@
 #
 # Requirements:
 #
-# Install needed packages: yum install bc screen
+# Install needed packages: yum install bc screen sed
 # mkdir /root/scripts -p
 #
 # Put script in: /root/scrips/codius-XRP-wallet-balance.sh
