@@ -50,4 +50,5 @@ Note: script will continue running inside the screen-session. It doesn't quit.
 You can now logout & login again (after detaching screen-session), then issue command: `screen -x` anytime to resume your session. Screen-sessions run until they are shut down, or server reboots. 
 
 ## Donations
-Donations accepted (XRP) to `rN3HmkFCmZJUVPhSiugNGLL36eH9euRDHF`
+[<img src="https://xrptipbot.nodum.io/static/tipbot%20card-min.png" data-canonical-src="https://www.xrptipbot.com/stats/user/account:jonaagenilsen/network:twitter/" width="240" height="100" />
+](https://www.xrptipbot.com/stats/user/account:jonaagenilsen/network:twitter/)
