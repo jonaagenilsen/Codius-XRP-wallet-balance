@@ -6,7 +6,7 @@ This script will give you realtime balance-info on your wallet used for Codius. 
 
 ## Installation
 ### 1. Needed packages
-`yum install bc curl nano screen`
+`yum install bc curl nano screen -y -q`
 
 ### 2 Create dir to for script(s)
 `mkdir /root/scripts -p`
