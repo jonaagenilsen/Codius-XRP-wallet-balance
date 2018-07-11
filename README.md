@@ -1,4 +1,4 @@
-## Codius-XRP-wallet-balance
+## Codius XRP wallet balance
 This script will give you realtime balance-info on your wallet used for Codius. Each time you run the script it will be logged to `/root/scripts/codius-XRP-wallet-balance.log.txt` so it's a good idea to keep it running 24/7 inside a screen-session (see below).
 
 ### Screenshot
