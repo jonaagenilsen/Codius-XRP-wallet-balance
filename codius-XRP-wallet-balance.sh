@@ -46,8 +46,8 @@ do
   URL=https://data.ripple.com/v2/accounts/$WALLET/balances
   BALANCE=`curl -s $URL | sed 's/.*"value":*//g' | sed 's/"//g' | sed 's/}//g' | sed 's/]//g'`
   EARNINGS=`echo ""$BALANCE - $START_BALANCE"" | bc`
-  echo "$DATE XRP balance: $BALANCE (earned: $EARNINGS) $SINCE"
-  echo "$DATE XRP balance: $BALANCE (earned: $EARNINGS) $SINCE" >> /root/scripts/codius-XRP-wallet-balance.log.txt
+  echo "$DATE XRP balance: $BALANCE \e[93mearned: $EARNINGS\e[0m $SINCE"
+  echo "$DATE XRP balance: $BALANCE earned: $EARNINGS $SINCE" >> /root/scripts/codius-XRP-wallet-balance.log.txt
   sleep $DELAY_BEFORE_REFRESH
 done
 
