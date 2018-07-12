@@ -33,7 +33,7 @@
 WALLET=r3RWq6awu6mVA7jNm9XoYkgAXCSZ2Wg8uw
 START_BALANCE=55.414748
 SINCE="(since 20180703)"
-DELAY_BEFORE_REFRESH=180 # Seconds. Default: 3 minutes.
+DELAY_BEFORE_REFRESH=1800 # Seconds. Default: 30 minutes.
 
 #
 # Do not change anything below.
