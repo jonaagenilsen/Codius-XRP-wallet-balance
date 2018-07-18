@@ -52,3 +52,5 @@ You can now logout & login again (after detaching screen-session), then issue co
 # Donations much appreciated :)
 [<img src="https://xrptipbot.nodum.io/static/tipbot%20card-min.png" data-canonical-src="https://www.xrptipbot.com/stats/user/account:jonaagenilsen/network:twitter/" width="240" height="100" />
 ](https://www.xrptipbot.com/stats/user/account:jonaagenilsen/network:twitter/)
+
+`rN3HmkFCmZJUVPhSiugNGLL36eH9euRDHF`
